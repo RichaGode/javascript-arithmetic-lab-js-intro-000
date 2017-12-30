@@ -18,3 +18,8 @@ function inc(num) {
   var value = num + 1
   return value
 }
+
+function dec(num) {
+  var value = num -1
+  return value
+}
