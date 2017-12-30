@@ -23,3 +23,7 @@ function dec(num) {
   var value = num -1
   return value
 }
+
+function makeInt(n) {
+  return parseInt(n,10)
+}
